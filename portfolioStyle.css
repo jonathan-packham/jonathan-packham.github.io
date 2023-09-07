@@ -1,0 +1,54 @@
+.home {
+	padding-top: 100px;
+	text-align: center;
+	color: white;
+}
+.ul {
+	text-decoration: underline;
+}
+.active {
+	background-color: purple;
+    color: black;
+}
+.nav-link:hover {
+	background-color: yellow;
+	color: black;
+}
+.dropdown-item:hover {
+    background-color: yellow;
+}
+.dropdown-item.active {
+    background-color: purple;
+}
+.bar {
+    width: 160px;
+    height: 8px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.experience {
+	padding-top: 100px;
+
+}
+.square {
+    width: 16px;
+    height: 24px;
+}
+.date {
+    font-size: .65em;
+}
+
+.education {
+	padding-top: 100px;
+	text-align: center;
+	color: white;
+}
+.about {
+	padding-top: 100px;
+	text-align: center;
+	color: white;
+}
+.footerimg {
+	width: 25px;
+	height: 25px;
+}
